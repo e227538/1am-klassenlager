@@ -89,6 +89,14 @@ figure img {
   height: auto;
 }
 
+.img-center {
+  text-align: center;
+}
+
+.img-center > img {
+  width: 70%;
+}
+
 #photo-grid {
   display: grid;
   grid-template-columns: auto auto auto;
